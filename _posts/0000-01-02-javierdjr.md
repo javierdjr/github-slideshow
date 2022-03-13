@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"to infinity, and beyond"
 Use the left arrow to go back!
